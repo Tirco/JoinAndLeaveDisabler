@@ -6,10 +6,5 @@ website: ${url}
 
 main: ${mainClass}
 
-commands:
-    example:
-        description: An example command
-        permission: spigotplugin.example
-        usage: /<command>
-
+commands: {}
 permissions: {}
